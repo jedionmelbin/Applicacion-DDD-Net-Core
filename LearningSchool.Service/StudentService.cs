@@ -5,6 +5,7 @@ using LearningSchool.Repository;
 using LearningSchool.Transport;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace LearningSchool.Service
@@ -21,7 +22,19 @@ namespace LearningSchool.Service
         }
         public IEnumerable<StudentDTO> GetAll()
         {
-            throw new NotImplementedException();
+            try
+            {
+                IEnumerable<Student> student = studentRepository.GetAll();
+                IEnumerable<StudentDTO> studentDTO = mapper.Map<IEnumerable<Student>, IEnumerable<StudentDTO>>(student);
+
+                return studentDTO.ToList();
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
 
         public StudentDTO GetById(int id)

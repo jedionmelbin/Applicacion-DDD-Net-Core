@@ -5,6 +5,7 @@ using LearningSchool.Repository;
 using LearningSchool.Transport;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -22,12 +23,26 @@ namespace LearningSchool.Service
         }
         public IEnumerable<CourseDTO> GetAll()
         {
-            throw new NotImplementedException();
+            try
+            {
+                IEnumerable<Course> student = courseRepostory.GetAll();
+                IEnumerable<CourseDTO> studentDTO = mapper.Map<IEnumerable<Course>, IEnumerable<CourseDTO>>(student);
+
+                return studentDTO.ToList();
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
 
         public CourseDTO GetById(int id)
         {
-            throw new NotImplementedException();
+            Course course = courseRepostory.GetById(id);
+            CourseDTO courseDTO = mapper.Map<CourseDTO>(course);
+            return courseDTO;
         }
 
         public async Task Insert(CourseDTO entity)

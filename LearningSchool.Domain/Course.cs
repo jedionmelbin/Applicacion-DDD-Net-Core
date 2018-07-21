@@ -5,7 +5,7 @@ namespace LearningSchool.Domain
 {
     public class Course
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int CourseID { get; set; }
         public string Title { get; set; }
         public int Credits { get; set; }

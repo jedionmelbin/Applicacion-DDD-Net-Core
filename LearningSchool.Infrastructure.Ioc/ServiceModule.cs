@@ -10,6 +10,7 @@ namespace LearningSchool.Infrastructure.Ioc
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<StudentService>().As<IStudentService>();
+            builder.RegisterType<CourseService>().As<ICourseService>();
         }
     }
 }

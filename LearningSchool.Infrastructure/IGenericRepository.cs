@@ -11,5 +11,6 @@ namespace LearningSchool.Infrastructure
         Task Update(TEntity entity);
         TEntity GetById(int id);
         IEnumerable<TEntity> GetAll();
+        void Dispose();
     }
 }

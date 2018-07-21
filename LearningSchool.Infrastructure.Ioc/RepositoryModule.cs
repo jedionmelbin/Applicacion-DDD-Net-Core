@@ -11,6 +11,7 @@ namespace LearningSchool.Infrastructure.Ioc
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<StudentRepository>().As<IStudentRepository>();
+            builder.RegisterType<CourseRepostory>().As<ICourseRepostory>();
         }
     }
 }

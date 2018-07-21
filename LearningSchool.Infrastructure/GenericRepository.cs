@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace LearningSchool.Infrastructure
@@ -49,7 +50,7 @@ namespace LearningSchool.Infrastructure
         {
             try
             {
-                
+
                 _applicationDbContext.Update(entity);
                 await _applicationDbContext.SaveChangesAsync();
             }
@@ -60,7 +61,8 @@ namespace LearningSchool.Infrastructure
         }
         public TEntity GetById(int id)
         {
-            throw new NotImplementedException();
+            var query = _applicationDbContext.Set<TEntity>().Find(id);
+            return query;
         }
         public Task Delete(TEntity entity)
         {
@@ -69,7 +71,16 @@ namespace LearningSchool.Infrastructure
 
         public IEnumerable<TEntity> GetAll()
         {
-            throw new NotImplementedException();
+            try
+            {
+
+                var query = _applicationDbContext.Set<TEntity>().ToList();
+                return query;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
 

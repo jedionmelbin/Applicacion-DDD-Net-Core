@@ -12,6 +12,8 @@ namespace LearningSchool.Service.Mapp
         public ViewModelProfile()
         {
             CreateMap<StudentDTO, Student>();
+
+            CreateMap<CourseDTO, Course>();
         }
 
     }

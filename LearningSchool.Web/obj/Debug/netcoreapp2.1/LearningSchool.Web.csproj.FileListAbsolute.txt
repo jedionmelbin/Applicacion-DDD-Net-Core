@@ -98,3 +98,8 @@ C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\L
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\LearningSchool.Web.csproj.CopyComplete
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\LearningSchool.Web.dll
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\LearningSchool.Web.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Enrollment\Index.g.cshtml.cs
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Course\Create.g.cshtml.cs
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Course\Edit.g.cshtml.cs

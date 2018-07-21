@@ -2,79 +2,39 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using LearningSchool.Service;
-using LearningSchool.Transport;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LearningSchool.Web.Controllers
 {
-    public class StudentController : Controller
+    public class EnrollmentController : Controller
     {
-        private IStudentService studentService;
-
-        public StudentController(IStudentService studentService)
-        {
-            this.studentService = studentService;
-        }
-        // GET: Student
+        // GET: Enrollment
         public ActionResult Index()
         {
             return View();
         }
 
-        [HttpPost]
-        public JsonResult ListStudent()
-        {
-            try
-            {
-                IEnumerable<StudentDTO> sudents = studentService.GetAll();
-                var jsonData = new
-                {
-                    draw = 1,
-                    recordsTotal = 10,
-                    recordsFiltered = 50,
-                    data = from f in sudents.AsEnumerable()
-                           select new
-                           {
-                               f.ID,
-                               f.FirstMidName,
-                               f.LastName
-                           }
-
-                };
-                return Json(jsonData);
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
-        }
-
-        // GET: Student/Details/5
+        // GET: Enrollment/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: Student/Create
+        // GET: Enrollment/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: Student/Create
+        // POST: Enrollment/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(StudentDTO collection)
+        public ActionResult Create(IFormCollection collection)
         {
             try
             {
-                if (ModelState.IsValid)
-                {
-                    studentService.Insert(collection);
-                }
+                // TODO: Add insert logic here
 
                 return RedirectToAction(nameof(Index));
             }
@@ -84,13 +44,13 @@ namespace LearningSchool.Web.Controllers
             }
         }
 
-        // GET: Student/Edit/5
+        // GET: Enrollment/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: Student/Edit/5
+        // POST: Enrollment/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -107,13 +67,13 @@ namespace LearningSchool.Web.Controllers
             }
         }
 
-        // GET: Student/Delete/5
+        // GET: Enrollment/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: Student/Delete/5
+        // POST: Enrollment/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
