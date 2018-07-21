@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using LearningSchool.Service;
+using LearningSchool.Transport;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,6 +20,11 @@ namespace LearningSchool.Web.Controllers
         // GET: Student
         public ActionResult Index()
         {
+            StudentDTO student = new StudentDTO();
+            student.LastName = "Gedeon";
+            student.FirstMidName = "Paucar Cardenas";
+            student.EnrollmentDate = DateTime.Now;
+            //studentService.Insert(student);
             return View();
         }
 

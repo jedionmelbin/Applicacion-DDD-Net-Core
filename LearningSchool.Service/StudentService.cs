@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using LearningSchool.Domain;
 using LearningSchool.Infrastructure;
 using LearningSchool.Repository;
 using LearningSchool.Transport;
@@ -28,9 +29,18 @@ namespace LearningSchool.Service
             throw new NotImplementedException();
         }
 
-        public Task Insert(StudentDTO entity)
+        public async Task Insert(StudentDTO entity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Student student = mapper.Map<Student>(entity);
+                await studentRepository.Insert(student);
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
 
         public Task Update(StudentDTO entity)

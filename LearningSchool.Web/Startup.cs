@@ -17,6 +17,7 @@ using Autofac.Extensions.DependencyInjection;
 using Autofac;
 using LearningSchool.Infrastructure.Ioc;
 using AutoMapper;
+using LearningSchool.Service.Mapp;
 
 namespace LearningSchool.Web
 {
@@ -43,10 +44,11 @@ namespace LearningSchool.Web
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             //services.AddDefaultIdentity<IdentityUser>()
-                //.AddEntityFrameworkStores<ApplicationDbContext>();
+            //.AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddAutoMapper(typeof(ConfigureAutoMapper));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddAutoMapper();
+        
 
             var builder = new ContainerBuilder();
             builder.RegisterModule<ServiceModule>();

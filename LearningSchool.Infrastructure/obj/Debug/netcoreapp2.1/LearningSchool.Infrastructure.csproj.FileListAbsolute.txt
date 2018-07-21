@@ -12,3 +12,17 @@ C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\De
 C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csproj.CopyComplete
 C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
 C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.deps.json
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csprojAssemblyReference.cache
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.AssemblyInfo.cs
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csproj.CopyComplete
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb

@@ -7,3 +7,12 @@ c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netc
 c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.AssemblyInfo.cs
 c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.dll
 c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\bin\Debug\netcoreapp2.1\LearningSchool.Domain.deps.json
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.csprojAssemblyReference.cache
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.AssemblyInfo.cs
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.pdb

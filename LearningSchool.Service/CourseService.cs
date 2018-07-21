@@ -44,9 +44,18 @@ namespace LearningSchool.Service
             }
         }
 
-        public Task Update(CourseDTO entity)
+        public async Task Update(CourseDTO entity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Course course = mapper.Map<Course>(entity);
+                await courseRepostory.Update(course);
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
     }
 }
