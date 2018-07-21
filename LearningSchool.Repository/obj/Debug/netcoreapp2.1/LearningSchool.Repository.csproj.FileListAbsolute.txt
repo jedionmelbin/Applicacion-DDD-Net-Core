@@ -1,0 +1,16 @@
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Repository.deps.json
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Repository.dll
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Repository.pdb
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csprojAssemblyReference.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csproj.CoreCompileInputs.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.AssemblyInfoInputs.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.AssemblyInfo.cs
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.dll
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csproj.CopyComplete

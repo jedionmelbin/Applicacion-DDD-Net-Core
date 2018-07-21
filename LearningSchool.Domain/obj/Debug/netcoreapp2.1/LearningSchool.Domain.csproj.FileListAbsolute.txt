@@ -1,0 +1,9 @@
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\bin\Debug\netcoreapp2.1\LearningSchool.Domain.deps.json
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.csprojAssemblyReference.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.csproj.CoreCompileInputs.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.AssemblyInfoInputs.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.AssemblyInfo.cs
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Domain\obj\Debug\netcoreapp2.1\LearningSchool.Domain.pdb

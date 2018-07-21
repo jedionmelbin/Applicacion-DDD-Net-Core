@@ -1,0 +1,14 @@
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.deps.json
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.AssemblyInfoInputs.cache
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.AssemblyInfo.cs
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+c:\users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csprojAssemblyReference.cache
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.csproj.CopyComplete
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Infrastructure\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb

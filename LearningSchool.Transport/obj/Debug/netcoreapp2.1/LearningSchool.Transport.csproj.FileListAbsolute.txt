@@ -1,0 +1,9 @@
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\bin\Debug\netcoreapp2.1\LearningSchool.Transport.deps.json
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\bin\Debug\netcoreapp2.1\LearningSchool.Transport.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\bin\Debug\netcoreapp2.1\LearningSchool.Transport.pdb
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.csprojAssemblyReference.cache
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.csproj.CoreCompileInputs.cache
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.AssemblyInfoInputs.cache
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.AssemblyInfo.cs
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.dll
+C:\Users\jedion\source\repos\LearningSchool\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.pdb
