@@ -1,2 +1,2 @@
 # Applicacion-DDD-Net-Core
-Applicacion base, net core, y Sql Server 
+Applicacion base, Net core MVC y Sql Server .
