@@ -19,5 +19,7 @@ namespace LearningSchool.Infrastructure.Data
             base.OnModelCreating(builder);
 
         }
+
+        
     }
 }

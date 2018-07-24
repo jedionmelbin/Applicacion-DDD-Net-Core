@@ -22,3 +22,15 @@ C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\L
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.csproj.CopyComplete
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.deps.json
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.csprojAssemblyReference.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.AssemblyInfo.cs
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.csproj.CopyComplete
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Data\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb

@@ -30,3 +30,19 @@ C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\L
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csproj.CopyComplete
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.dll
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Repository.deps.json
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Repository.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Repository.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csprojAssemblyReference.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csproj.CoreCompileInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.AssemblyInfoInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.AssemblyInfo.cs
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.csproj.CopyComplete
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Repository\obj\Debug\netcoreapp2.1\LearningSchool.Repository.pdb

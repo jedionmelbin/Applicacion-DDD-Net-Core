@@ -39,13 +39,13 @@ namespace LearningSchool.Web.Controllers
         // POST: Course/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(CourseDTO collection)
+        public async Task<ActionResult> Create(CourseDTO collection)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    courseService.Insert(collection);
+                   await courseService.Insert(collection);
                 }
                 return RedirectToAction(nameof(Index));
             }
@@ -66,13 +66,13 @@ namespace LearningSchool.Web.Controllers
         // POST: Course/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, CourseDTO collection)
+        public async Task<ActionResult> Edit(int id, CourseDTO collection)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    courseService.Update(collection);
+                  await  courseService.Update(collection);
                 }
                 return RedirectToAction(nameof(Index));
             }

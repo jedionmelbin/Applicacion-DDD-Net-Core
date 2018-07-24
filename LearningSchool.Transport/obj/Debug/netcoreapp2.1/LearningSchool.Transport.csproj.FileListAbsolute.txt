@@ -16,3 +16,12 @@ C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\L
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.AssemblyInfo.cs
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.dll
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\bin\Debug\netcoreapp2.1\LearningSchool.Transport.deps.json
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\bin\Debug\netcoreapp2.1\LearningSchool.Transport.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\bin\Debug\netcoreapp2.1\LearningSchool.Transport.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.csprojAssemblyReference.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.csproj.CoreCompileInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.AssemblyInfoInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.AssemblyInfo.cs
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Transport\obj\Debug\netcoreapp2.1\LearningSchool.Transport.pdb

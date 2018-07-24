@@ -18,6 +18,8 @@ using Autofac;
 using LearningSchool.Infrastructure.Ioc;
 using AutoMapper;
 using LearningSchool.Service.Mapp;
+using LearningSchool.Repository;
+using LearningSchool.Service;
 
 namespace LearningSchool.Web
 {
@@ -31,7 +33,7 @@ namespace LearningSchool.Web
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public IServiceProvider ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
@@ -40,22 +42,28 @@ namespace LearningSchool.Web
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             //services.AddDefaultIdentity<IdentityUser>()
             //.AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddAutoMapper(typeof(ConfigureAutoMapper));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-        
 
-            var builder = new ContainerBuilder();
-            builder.RegisterModule<ServiceModule>();
-            builder.RegisterModule<RepositoryModule>();
-            builder.Populate(services);
-            var container = builder.Build();
-            return new AutofacServiceProvider(container);
+            //Repository
+            services.AddTransient<IStudentRepository, StudentRepository>();
+            services.AddTransient<ICourseRepostory, CourseRepostory>();
+
+            //Service
+            services.AddTransient<IStudentService, StudentService>();
+            services.AddTransient<ICourseService, CourseService>();
+         
+
+            //var builder = new ContainerBuilder();
+            //builder.RegisterModule<ServiceModule>();
+            //builder.RegisterModule<RepositoryModule>();
+            //builder.Populate(services);
+            //var container = builder.Build();
+            //return new AutofacServiceProvider(container);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

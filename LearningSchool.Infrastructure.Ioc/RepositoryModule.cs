@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using LearningSchool.Infrastructure.Data;
 using LearningSchool.Repository;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ namespace LearningSchool.Infrastructure.Ioc
     {
         protected override void Load(ContainerBuilder builder)
         {
+            builder.RegisterType<ApplicationDbContext>().InstancePerRequest();
             builder.RegisterType<StudentRepository>().As<IStudentRepository>();
             builder.RegisterType<CourseRepostory>().As<ICourseRepostory>();
         }

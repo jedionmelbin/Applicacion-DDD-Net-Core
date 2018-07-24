@@ -42,3 +42,25 @@ C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\L
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.csproj.CopyComplete
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.dll
 C:\Users\jedion\Documents\Visual Studio 2017\Projects\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.deps.json
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Domain.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Repository.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Service.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Transport.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Repository.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Service.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Domain.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Data.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\bin\Debug\netcoreapp2.1\LearningSchool.Transport.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.csprojAssemblyReference.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.AssemblyInfoInputs.cache
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.AssemblyInfo.cs
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.csproj.CopyComplete
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.dll
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Infrastructure.Ioc\obj\Debug\netcoreapp2.1\LearningSchool.Infrastructure.Ioc.pdb

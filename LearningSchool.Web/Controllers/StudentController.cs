@@ -67,20 +67,20 @@ namespace LearningSchool.Web.Controllers
         // POST: Student/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(StudentDTO collection)
+        public async Task<ActionResult> Create(StudentDTO collection)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    studentService.Insert(collection);
+                   await studentService.Insert(collection);
                 }
 
                 return RedirectToAction(nameof(Index));
             }
-            catch
+            catch(Exception ex)
             {
-                return View();
+                throw ex;
             }
         }
 
