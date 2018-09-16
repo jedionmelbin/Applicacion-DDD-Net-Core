@@ -14,6 +14,8 @@ namespace LearningSchool.Service.Mapp
             CreateMap<StudentDTO, Student>();
 
             CreateMap<CourseDTO, Course>();
+
+            CreateMap<EnrollmentDTO, Enrollment>();
         }
 
     }

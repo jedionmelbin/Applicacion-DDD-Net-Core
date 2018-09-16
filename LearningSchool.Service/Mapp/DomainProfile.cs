@@ -12,6 +12,10 @@ namespace LearningSchool.Service.Mapp
         public DomainProfile()
         {
             CreateMap<Student, StudentDTO>();
+
+            CreateMap<Enrollment, EnrollmentDTO>()
+                .ForMember(x => x.listCourse, opt => opt.Ignore())
+                .ForMember(x => x.listStudent, opt => opt.Ignore());
         }
     }
 }

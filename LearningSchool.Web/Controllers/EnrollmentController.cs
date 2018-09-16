@@ -26,7 +26,7 @@ namespace LearningSchool.Web.Controllers
         public ActionResult Index()
         {
             IEnumerable<EnrollmentDTO> list = new List<EnrollmentDTO>();
-
+            list = enrollmentService.GetAll();
             return View(list);
         }
 
@@ -58,17 +58,20 @@ namespace LearningSchool.Web.Controllers
         // POST: Enrollment/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<ActionResult> Create(EnrollmentDTO collection)
         {
             try
             {
-                // TODO: Add insert logic here
-
+                if (collection != null)
+                {
+                    await enrollmentService.Insert(collection);
+                }
                 return RedirectToAction(nameof(Index));
             }
-            catch
+            catch (Exception ex)
             {
-                return View();
+
+                throw ex;
             }
         }
 
