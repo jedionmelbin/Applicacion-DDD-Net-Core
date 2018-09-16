@@ -8,5 +8,6 @@ namespace LearningSchool.Repository
 {
     public interface IEnrollmentRepository:IGenericRepository<Enrollment>
     {
+        IEnumerable<Enrollment> ListEnrollment();
     }
 }

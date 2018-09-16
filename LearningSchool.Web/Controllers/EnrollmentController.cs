@@ -26,7 +26,7 @@ namespace LearningSchool.Web.Controllers
         public ActionResult Index()
         {
             IEnumerable<EnrollmentDTO> list = new List<EnrollmentDTO>();
-            list = enrollmentService.GetAll();
+            list = enrollmentService.ListEnrollment();
             return View(list);
         }
 

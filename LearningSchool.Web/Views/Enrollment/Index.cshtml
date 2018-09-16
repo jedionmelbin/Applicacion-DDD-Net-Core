@@ -34,10 +34,10 @@
                 @Html.DisplayFor(modelItem => item.EnrollmentID)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CourseID)
+                @Html.DisplayFor(modelItem => item.Course.Title)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.StudentID)
+                @Html.DisplayFor(modelItem => item.Student.LastName)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Grade)

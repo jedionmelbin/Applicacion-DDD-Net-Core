@@ -57,6 +57,22 @@ namespace LearningSchool.Service
             }
         }
 
+        public IEnumerable<EnrollmentDTO> ListEnrollment()
+        {
+            try
+            {
+                IEnumerable<Enrollment> enrollment = enrollmentRepository.ListEnrollment();
+                IEnumerable<EnrollmentDTO> enrollmentDTOs = mapper.Map<IEnumerable<Enrollment>, IEnumerable<EnrollmentDTO>>(enrollment);
+
+                return enrollmentDTOs.ToList();
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public async Task Update(EnrollmentDTO entity)
         {
             try

@@ -8,6 +8,6 @@ namespace LearningSchool.Service
 {
     public interface IEnrollmentService:IServiceBase<EnrollmentDTO>
     {
-
+        IEnumerable<EnrollmentDTO> ListEnrollment();
     }
 }
