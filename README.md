@@ -8,3 +8,4 @@ Install Package  prerequisite.
 # Install-Package Microsoft.EntityFrameworkCore.SqlServer 
 # Install-Package Microsoft.EntityFrameworkCore.Relational 
 # Install-Package Microsoft.EntityFrameworkCore.Tools
+# Install-Package Microsoft.AspNetCore.Mvc.Razor -Version 2.1.2
