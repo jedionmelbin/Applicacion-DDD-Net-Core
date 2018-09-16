@@ -2,7 +2,7 @@
 Applicacion base, Net core MVC y Sql Server .
 
 
-Install Package .
+Install Package  prerequisite.
 
 # Install-Package Microsoft.EntityFrameworkCore 
 # Install-Package Microsoft.EntityFrameworkCore.SqlServer 
