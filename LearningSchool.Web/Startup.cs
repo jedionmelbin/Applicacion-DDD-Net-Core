@@ -52,11 +52,12 @@ namespace LearningSchool.Web
             //Repository
             services.AddTransient<IStudentRepository, StudentRepository>();
             services.AddTransient<ICourseRepostory, CourseRepostory>();
+            services.AddTransient<IEnrollmentRepository, EnrollmentRepository>();
 
             //Service
             services.AddTransient<IStudentService, StudentService>();
             services.AddTransient<ICourseService, CourseService>();
-         
+            services.AddTransient<IEnrollmentService, EnrollmentService>();
 
             //var builder = new ContainerBuilder();
             //builder.RegisterModule<ServiceModule>();

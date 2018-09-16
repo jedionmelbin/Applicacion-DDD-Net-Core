@@ -2,17 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LearningSchool.Service;
+using LearningSchool.Transport;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace LearningSchool.Web.Controllers
 {
     public class EnrollmentController : Controller
     {
+        private IEnrollmentService enrollmentService;
+        private IStudentService studentService;
+        private ICourseService courseService;
+        public EnrollmentController(IEnrollmentService enrollmentService,
+            IStudentService studentService, ICourseService courseService)
+        {
+            this.enrollmentService = enrollmentService;
+            this.studentService = studentService;
+            this.courseService = courseService;
+        }
         // GET: Enrollment
         public ActionResult Index()
         {
-            return View();
+            IEnumerable<EnrollmentDTO> list = new List<EnrollmentDTO>();
+
+            return View(list);
         }
 
         // GET: Enrollment/Details/5
@@ -24,7 +39,20 @@ namespace LearningSchool.Web.Controllers
         // GET: Enrollment/Create
         public ActionResult Create()
         {
-            return View();
+            EnrollmentDTO enrollment = new EnrollmentDTO();
+            enrollment.listStudent = studentService.GetAll().Select(x => new SelectListItem()
+            {
+                Value = x.ID.ToString(),
+                Text = x.FirstMidName
+            }).ToList();
+
+            enrollment.listCourse = courseService.GetAll().Select(x => new SelectListItem()
+            {
+                Value = x.CourseID.ToString(),
+                Text = x.Title
+            }).ToList();
+
+            return View(enrollment);
         }
 
         // POST: Enrollment/Create

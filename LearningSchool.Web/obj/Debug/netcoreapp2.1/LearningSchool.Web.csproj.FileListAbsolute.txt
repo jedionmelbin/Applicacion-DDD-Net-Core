@@ -158,3 +158,5 @@ D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Lear
 D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\LearningSchool.Web.csproj.CopyComplete
 D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\LearningSchool.Web.dll
 D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\LearningSchool.Web.pdb
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Enrollment\Create.g.cshtml.cs
+D:\apps\Applicacion-DDD-Net-Core\LearningSchool.Web\obj\Debug\netcoreapp2.1\Razor\Views\Enrollment\Edit.g.cshtml.cs

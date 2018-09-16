@@ -1,4 +1,7 @@
-﻿namespace LearningSchool.Transport
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
+
+namespace LearningSchool.Transport
 {
     public enum Grade
     {
@@ -14,5 +17,8 @@
 
         public CourseDTO Course { get; set; }
         public StudentDTO Student { get; set; }
+        public List<SelectListItem> listStudent { get; set; }
+        public List<SelectListItem> listCourse { get; set; }
+
     }
 }
